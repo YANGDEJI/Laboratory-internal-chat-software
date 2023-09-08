@@ -1,0 +1,28 @@
+﻿  CKernel.cpp
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(214,49): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(235,53): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(240,59): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(292,59): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(328,59): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(373,53): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\编程能力学习\三阶段\IMServer\CKernel.cpp(401,59): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+  IMSever.cpp
+  CMySql.cpp
+  TcpClientMediator.cpp
+  TcpServerMediator.cpp
+  UdpMediator.cpp
+  TcpClientNet.cpp
+D:\编程能力学习\三阶段\IMServer\net\TcpClientNet.cpp(63,53): warning C4305: “参数”: 从“int”到“u_short”截断
+D:\编程能力学习\三阶段\IMServer\net\TcpClientNet.cpp(63,33): warning C4309: “参数”: 截断常量值
+D:\编程能力学习\三阶段\IMServer\net\TcpClientNet.cpp(151,35): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  TcpServerNet.cpp
+D:\编程能力学习\三阶段\IMServer\net\TcpServerNet.cpp(55,53): warning C4305: “参数”: 从“int”到“u_short”截断
+D:\编程能力学习\三阶段\IMServer\net\TcpServerNet.cpp(55,33): warning C4309: “参数”: 截断常量值
+D:\编程能力学习\三阶段\IMServer\net\TcpServerNet.cpp(203,35): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  UdpNet.cpp
+D:\编程能力学习\三阶段\IMServer\net\UdpNet.cpp(63,53): warning C4305: “参数”: 从“int”到“u_short”截断
+D:\编程能力学习\三阶段\IMServer\net\UdpNet.cpp(63,33): warning C4309: “参数”: 截断常量值
+D:\编程能力学习\三阶段\IMServer\net\UdpNet.cpp(123,51): warning C4305: “参数”: 从“int”到“u_short”截断
+D:\编程能力学习\三阶段\IMServer\net\UdpNet.cpp(123,31): warning C4309: “参数”: 截断常量值
+  正在生成代码...
+  IMServer.vcxproj -> D:\编程能力学习\三阶段\IMServer\x64\Debug\IMServer.exe
