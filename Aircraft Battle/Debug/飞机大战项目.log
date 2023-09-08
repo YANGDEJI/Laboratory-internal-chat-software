@@ -1,0 +1,15 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(25.飞机大战.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CBackGround.cpp
+  CFoePlane.cpp
+  CFoePlaneBig.cpp
+  CFoePlaneBox.cpp
+D:\编程能力学习\二阶段\复习资料\25.飞机大战\FoePlaneBox\CFoePlaneBox.cpp(67,13): warning C4091: “”: 没有声明变量时忽略“type_info”的左侧
+  CFoePlaneMid.cpp
+  CFoePlaneSma.cpp
+  main.cpp
+  CGunner.cpp
+  CGunnerBox.cpp
+  CPlaneApp.cpp
+  CPlayerPlane.cpp
+  正在生成代码...
+  飞机大战项目.vcxproj -> D:\编程能力学习\二阶段\复习资料\25.飞机大战\Debug\飞机大战项目.exe
